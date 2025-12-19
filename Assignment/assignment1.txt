@@ -1,0 +1,18 @@
+                               Group-A 
+
+1 Define the term “protocol” in the context of the internet 
+- In the context of internet “protocol” refers to the set of rules that control how data and information is transmitted from sender to receiver through internet. 
+
+ 2 What is the primary difference between a Web Browser and Search Engine? 
+-The primary difference between a Web Browser and Search Engine is that Web Browser displays web pages whereas search engine helps to search information. 
+
+ 3 Define the World Wide Web 
+-WWW is a global system of interlinked web pages which can be used over a internet using web browser. 
+
+ 4 Distinguish between a static web page and a dynamic web page 
+-Static web pages are those kind of web page where  content is fixed whereas dynamic web page is based on data. 
+
+                            Group-B 
+5 Explain the client-server architecture of the web with a neat diagram.
+-Client server architecture 
+ 
