@@ -13,6 +13,39 @@
 -Static web pages are those kind of web page where  content is fixed whereas dynamic web page is based on data. 
 
                             Group-B 
-5 Explain the client-server architecture of the web with a neat diagram.
--Client server architecture 
+
+5 Explain the client-server architecture of the web with a neat diagram. 
+-Client-server architecture of the web is a model where work is divided into two components client and server. 
+- The client is a web browser that runs on a users device that sends request and The server is computer that stores websites that responds to the request. 
+-When a client types a URL it send HTTP/HTTPS request to the server then the server processes it and retrieve required data and responds to the client. 
+
+ 6 Describe the function of the following Internet Service. 
+-Email: The function of an email is to send and receive digital message over the internet. 
+-FTP: The function of File Transfer Protocol is to transfer files between a client and a server over a network or internet. 
+-VoIP: The function of Voice over Internet Protocol is to transmit voice communication over the internet instead of traditional telephone. 
+
+ 7 “The Internet is a network of networks” Elaborate on this statement explaining how packet switching works 
+-The internet is called network of networks because it is formed by connecting milions of smaller networks. 
+-Packet Switching works by breaking data in small piece called packets before sending it over a network. 
+-When a user send data it is divided into smaller packets and are send independently through the network and router reads the packets and send to its destination. 
+
+                                                         Group-c 
+
+8 A startup company wants to host a website that displays the same information to all visitors  and requires very low maintenance costs. However,  they are being  advised to use a dynamic website. Aas a consultant ,would you agree? Justify your answer. 
+-As a consult, I would not agree with using dynamic website because 
+-displaying same information to all and low maintenance cost are the characteristics of static website. 
+-Static Website are much simple, faster, cheaper to host and ideal for startup with limited budgets. 
+-whereas Dynamic website is suitable for frequent  updates and personalized content which is not the case here. 
+-Hence, static website is the more appropriate and cost-effective solution. 
+
+ 9  A user types www.google.com into their browser, but the browser displays a “Server Not Found” error even though the internet condition is active. However, accessing the site via 142.250.190.46 works. Diagnose the problem and explain the underlying technology that failed. 
+-The problem is a DNS (Domain Name System) failure. 
+-when the user types www.google.com, the browser must translate the domain name into an Ip address using DNS. 
+-Since accessing the site directly via the address, it shows that the internet connection and web server are functioning correctly. 
+-However, the DNS server failed to resolve the domain name into its IP address and it caused the failure. 
+
+ 10  A multinational corporation wants to share  sensitive  inventory data with specific suppliers but does not want this information available to the general public. Explain which network type they should implement. 
+-The multinational  corporation should implement Extranet network. 
+-Extranet is a private network that allows contlled access to selected internal resources to the external users. 
+-It uses security mechanism such as authentication , encryption and access control to protect sensitive data. 
  
